@@ -208,7 +208,7 @@ namespace Seq
 #define TT template <class T, class Layer>
 
 
-size_t ID = 0;
+static size_t ID = 0;
 
 
 namespace Seq
